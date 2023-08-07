@@ -1,13 +1,15 @@
 <h1 align="center">Hola👋, Soy Elimer</h1>
 <h3 align="center">Un apasionado desarrollador Web de Colombia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kempsh661&label=Profile%20views&color=0e75b6&style=flat" alt="kempsh661" /> </p>
+
 - 🔭 Actualmente estoy trabajando en **Pagina de Noticias**
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo en la Nube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elimer rodriguez otalora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elimer rodriguez otalora" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/elimer-rodriguez-otalora-240490174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elimer-rodriguez-otalora-240490174/" height="30" width="40" /></a>
 <a href="https://instagram.com/kempsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kempsh" height="30" width="40" /></a>
 </p>
 
@@ -17,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kempsh661&show_icons=true&locale=en&layout=compact" alt="kempsh661" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kempsh661&show_icons=true&locale=en" alt="kempsh661" /></p>
+
