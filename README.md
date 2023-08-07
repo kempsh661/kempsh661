@@ -1,9 +1,9 @@
 <h1 align="center">Hola👋, Soy Elimer</h1>
 <h3 align="center">Un apasionado desarrollador Web de Colombia</h3>
 
-- 🔭 Actualmente estoy trabajando en **Chat de Citas**
+- 🔭 Actualmente estoy trabajando en **Pagina de Noticias**
 
-- 🌱 Actualmente estoy aprendiendo **Php, Laravel y React Native**
+- 🌱 Actualmente estoy aprendiendo **Desarrollo en la Nube AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
