@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kempsh661&label=Profile%20views&color=0e75b6&style=flat" alt="kempsh661" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **Pagina de Noticias**
+- 🔭 Actualmente estoy trabajando en **Sistema Pos**
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo en la Nube**
 
